@@ -1,0 +1,16 @@
+.nav-menu.practice a:hover {
+    background-color: magenta !important;
+    transform: translateX(10px);
+}
+
+.nav-menu.practice a:active {
+    background-color: darkmagenta !important;
+}
+
+.nav-menu.practice a:first-child {
+    background-color: deepskyblue;
+}
+
+.nav-menu.practice a:last-child {
+    background-color: greenyellow;
+}
